@@ -247,13 +247,19 @@ h1,h2,h5,h6{
         height: 100vh;
         width: auto;
     }
-    .layer0 img,.layer1 img,.layer2 img{
+    .layer0 img{
         height: 100vh;
         width: auto;
+    }
+    .layer1 img,.layer2 img{
+        height: 100vh;
+        width: auto;
+        max-height: 750px;
     }
     .layer3 svg{
         height: 110vh;
         width: auto;
+        max-height: 750px;
     }
     .card{
         height: 410px;
