@@ -6,6 +6,11 @@ body{
     height: 100vh;
     overflow: hidden;
     background-color: #1c072e;
+    position: fixed; top: 0; left: calc(100vw / 2); 
+}
+html{
+    display: flex;
+    align-items: center;
 }
 .apresenta{
     display: flex;
