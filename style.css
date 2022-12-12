@@ -11,7 +11,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 50%;
+    height: 45%;
 }
 .pic{
     width: 30%;
@@ -256,6 +256,9 @@ h1,h2,h5,h6{
     }
     .icons {
         height: 6%;
+    }
+    .apresenta{
+        height: 54%;
     }
   }
   @media (min-width: 1090px){
